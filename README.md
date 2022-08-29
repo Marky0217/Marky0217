@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marky
 - 👀 I’m interested in Coding and stuff
 - 🌱 I’m currently learning about this site and many more
-- 💞️ I’m looking to collaborate on any kind of this that might help me
+- 💞️ I’m looking to collaborate on any kind of things that might help me
 - 📫 How to reach me ... you can email me on (ianaseddillo54@gmail.com)
 
 <!---
